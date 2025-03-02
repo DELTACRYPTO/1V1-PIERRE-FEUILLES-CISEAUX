@@ -1,3 +1,5 @@
+WE ARE BASED#
+
 # 1V1-PIERRE-FEUILLES-CISEAUX ON BASE HERE / 0xEF70121033807Db293f2645fE517568cC95910B9
 
 Inscription : Les joueurs TRUMP et POUTINE s'inscrivent en appelant inscrireTrump() et inscrirePoutine().
